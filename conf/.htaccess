@@ -1,0 +1,4 @@
+AuthUserFile projetweb\conf\.htpasswd
+AuthName "Accès protégé"
+AuthType Basic
+Require valid-user
